@@ -1,16 +1,53 @@
-## Hi there 👋
+# Hi 👋, I'm Lokesh Khasavad
 
-<!--
-**Loki-khasawad/Loki-khasawad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Future Distinguished Cloud Engineer
 
-Here are some ideas to get you started:
+I am a Computer Science graduate passionate about Linux, Cloud Computing and DevOps. I enjoy building practical projects and continuously improving my technical skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👨‍💻 About Me
+
+- 🎓 Computer Science Graduate
+- 🐧 Learning Linux Administration (RHCSA)
+- ☁️ Learning AWS Cloud
+- ⚙️ Learning DevOps (Git, GitHub, Jenkins & Docker)
+- 💡 Passionate about System Administration & Automation
+
+---
+
+## 🛠️ Tech Stack
+
+- Linux
+- Git
+- GitHub
+- Python
+- HTML
+- CSS
+- JavaScript
+- PHP
+- MySQL
+
+---
+
+## 📂 Featured Projects
+
+### 🔒 Web Vulnerability Scanner
+
+Python-based web security scanner for detecting malicious URLs and common web vulnerabilities.
+
+### 📇 PHP MySQL Contact Management System
+
+A secure contact management application built using PHP and MySQL.
+
+---
+
+## 🎯 Current Goal
+
+Become a Linux Administrator and Cloud Engineer with strong practical knowledge of Linux, AWS and DevOps technologies.
+
+---
+
+## 📫 Connect With Me
+
+- LinkedIn: https://www.linkedin.com/in/lokesh-khasavad-252021260
