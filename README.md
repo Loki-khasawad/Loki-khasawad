@@ -13,11 +13,26 @@ I am a Computer Science graduate passionate about Linux, Cloud Computing and Dev
 
 ## 🛠️ Tech Stack
 
-Linux
-Git
-GitHub
-Python
-PHP
+## 🛠 Tech Stack
+
+### Operating System
+- Linux
+
+### Programming
+- Python
+- PHP
+
+### Database
+- MySQL
+
+### Version Control
+- Git
+- GitHub
+
+### Web
+- HTML
+- CSS
+- JavaScript
 ---
 
 ## 📂 Featured Projects
