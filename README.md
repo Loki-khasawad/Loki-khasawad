@@ -1,6 +1,6 @@
 # Hi 👋, I'm Lokesh Khasavad
 
-## 🚀 Future Distinguished Cloud Engineer
+## 🚀 Future Linux Administrator | Cloud Engineer
 
 I am a Computer Science graduate passionate about Linux, Cloud Computing and DevOps. I enjoy building practical projects and continuously improving my technical skills.
 
@@ -8,26 +8,16 @@ I am a Computer Science graduate passionate about Linux, Cloud Computing and Dev
 
 ## 👨‍💻 About Me
 
-- 🎓 Computer Science Graduate
-- 🐧 Learning Linux Administration (RHCSA)
-- ☁️ Learning AWS Cloud
-- ⚙️ Learning DevOps (Git, GitHub, Jenkins & Docker)
-- 💡 Passionate about System Administration & Automation
-
+🏆 Building practical Linux, Cloud and Security projects
 ---
 
 ## 🛠️ Tech Stack
 
-- Linux
-- Git
-- GitHub
-- Python
-- HTML
-- CSS
-- JavaScript
-- PHP
-- MySQL
-
+Linux
+Git
+GitHub
+Python
+PHP
 ---
 
 ## 📂 Featured Projects
