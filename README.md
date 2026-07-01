@@ -13,8 +13,6 @@ I am a Computer Science graduate passionate about Linux, Cloud Computing and Dev
 
 ## 🛠️ Tech Stack
 
-## 🛠 Tech Stack
-
 ### Operating System
 - Linux
 
